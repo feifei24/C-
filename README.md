@@ -1,2 +1,2 @@
-# C-
+# C#
 Trick to C# programing
